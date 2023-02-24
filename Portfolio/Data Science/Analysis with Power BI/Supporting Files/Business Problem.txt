@@ -1,0 +1,25 @@
+﻿Sales Manager:
+
+
+Hello All!
+
+
+I hope you are doing well.  I need you to improve our internet sales report and want to move it from static reports to an interactive visual dashboard.
+
+
+Essentially, we want to focus on how much we have sold of what products, to which silence and how it has sold over time.
+
+
+Seeing as each sales person works on different products and customers it would be beneficial to be able to filter them also.
+
+
+We measure our numbers against a budget so I added that in a spreadsheet so we can compare our values against performance.
+
+
+The budget is for 2023 and we usually look 4 years back when doing analysis of sales.
+
+
+Let me know if you need anything else.
+
+
+Regards.
